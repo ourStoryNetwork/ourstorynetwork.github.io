@@ -6,7 +6,9 @@ categories: jekyll update
 permalink: "/09_b18governance/"
 ---
 
-THe default governance protocol is a derivative of [Nostr](https://nostr.com/the-protocol). This is an MVP of the future Nostr client that ourStory is making for [The School of Bitcoin](https://theschoolofbitcoin.com) to help learners create Decentralized Autonomous Organizations that transform their cities.
+With oS3, ourStory's governance is managed in our [GitHub Discussions](https://github.com/orgs/ourStoryNetwork/discussions).
+
+The default governance protocol is a derivative of [Nostr](https://nostr.com/the-protocol). This is an MVP of the future Nostr client that ourStory is making for [The School of Bitcoin](https://theschoolofbitcoin.com) to help learners create Decentralized Autonomous Organizations that transform their cities.
 
 ## Platform Game
 ourStory: Everything is Music uses oS3 (ourStory openSource operatingSystem) as a template for creating our platform ecosystem.
