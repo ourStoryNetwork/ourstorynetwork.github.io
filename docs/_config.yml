@@ -34,6 +34,53 @@ theme: minima
 plugins:
   - jekyll-feed
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      we_090: "Gressier, Haiti"
+      need_090: "Creative Freedom"
+      # Platform Ecosystem: What nonprofit is the basis of design for your platform's OWNER?
+      go_090: "Urban Growers Collective"
+      search_090: "[Eukaryotic Cell: Membrane]"
+      find_090: "Water: Cymatics - 174 Hz"
+      take_090: "Backstage"
+      return_090: "A City-Building Ecosystem"
+      changed_090: "ourStory: Everything Is Music"
+      
+      we_091: "Indigenous Designers"
+      need_091: "Creative Freedom"
+      # Platform Interface: What city agency is the basis of design for your platform's PROVIDER?
+      go_091: "Chicago Department of Planning and Development"
+      search_091: "The Planet: Van Allen Belt"
+      find_091: "Government Institution: Language"
+      # What AI ecosystem will you learn from?
+      take_091: "Hugging Face"
+      return_091: "City Agency (AgenCity) Intelligence Library"
+      changed_091: "hu3agency: we're all right"
+      we_092: "Permaculture Engineers"
+      
+      need_092: "Creative Freedom"
+      # Platform Team: What open source community is the basis of design for your platform's PRODUCERS?
+      go_092: "Open Source Community Africa"
+      search_092: "Tree: Bark"
+      find_092: "Family Institution: Universal Chakra"
+      # What blockchain ecosystem will you learn from?
+      take_092: "Web3 Foundation"
+      return_092: "City Block Planning Studio"
+      changed_092: "lp0_polymathProcess"
+
+      we_093: "SolarPunk Design Engineers"
+      need_093: "Creative Freedom"
+      # Platform Project: What company is the basis of design for your platform's CONSUMERS?
+      go_093: "ICON"
+      search_093: "Human: Integumentary System"
+      find_093: "Business Institution: Chief Language Office (CLO)"
+      # What park ecosystem will you learn from?
+      take_093: "Chicago Boulevard System"
+      return_093: "Niche Construction University"
+      changed_093: "ep0_daoTeaching"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
